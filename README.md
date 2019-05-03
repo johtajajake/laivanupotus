@@ -15,4 +15,4 @@ Known bugs:
 5. Omia laivoja ei voi siirtää, pitää tyytyä random asetteluun
 
 
-Tehty NetBeansilla. Tarttis aikamoista refactorointia.
+Tehty NetBeansilla. Tarttis aikamoista refaktorointia.
