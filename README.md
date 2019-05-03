@@ -15,4 +15,4 @@ Known bugs:
 5. Omia laivoja ei voi siirtää, pitää tyytyä random asetteluun
 
 
-Tehty NetBeansilla. Tarttis aikamoista refaktorointia.
+Tehty NetBeansilla, MOOC (mooc.fi) jatkokurssin tiedoilla. Ja vähän kuukkelia käyttäen. Tarttis aikamoista refaktorointia.
